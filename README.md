@@ -1,1 +1,1 @@
-# xuanIMICclass newclass
+newclass
