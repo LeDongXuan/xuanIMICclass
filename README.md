@@ -1,1 +1,2 @@
 newclass
+hello 1
